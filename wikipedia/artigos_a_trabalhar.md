@@ -1,6 +1,6 @@
 # Artigos a trabalhar
 
-Uma listinha simples só pra eu não esquecer __QUE EU TENHO QUE TRABALHAR NESSES ARTIGOS__. Nada demais. __[TRADUÇÕES AQUI](https://pt.wikipedia.org/wiki/Usuário:Gabriel_dos_Santos/Traduções)__
+Uma listinha simples só pra eu não esquecer __QUE EU TENHO QUE TRABALHAR NESSES ARTIGOS__. Nada demais. __[TRADUÇÕES AQUI](traducoes.md)__
 
 ## Artigos já existentes / iniciados
 * [DirecTV Latin America](https://pt.wikipedia.org/wiki/DirecTV_Latin_America) - só as refs. já tá de bom tamanho
