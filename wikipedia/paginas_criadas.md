@@ -3,48 +3,49 @@
 Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criação da minha conta, em 2010. As páginas criadas não necessariamente indicam que todo o conteúdo que atualmente estão nelas foram criadas por mim. Até o final de 2014, as páginas com o prefixo "_Lista de..._" faziam parte do [extinto domínio Anexo:](https://pt.wikipedia.org/wiki/Wikipédia:Esplanada/propostas/Eliminação_do_domínio_Anexo_(26abr2014)).
 
 ## 2010
-* Microsoft Internet Mail and News
-* Netscape Messenger 9
-* Televisão Cultura <small>(redirecionamento; página eliminada)</small>
-* Netscape Composer
-* Netscape Enterprise Server
-* Quaker Oats Company <small>(redirecionamento)</small>
-* Video-clipe <small>(redirecionamento)</small>
-* VilaBOL <small>(redirecionamento)</small>
-* Netscape Navigator 9
-* Netscape Messenger <small>(redirecionamento)</small>
-* Netscape 7
-* Netscape 9 <small>(redirecionamento)</small>
-* Navigator 9 <small>(redirecionamento)</small>
-* Netscape Communications <small>(redirecionamento)</small>
-* Netscape 6
-* Netscape Mail & Newsgroups
-* UOL Messenger
-* Trident (motor de layout)
+* [Microsoft Internet Mail and News](https://pt.wikipedia.org/wiki/Microsoft_Internet_Mail_and_News)
+* [Netscape Messenger 9](https://pt.wikipedia.org/wiki/Netscape_Messenger_9)
+* <del>Televisão Cultura</del> <small>(redirecionamento; página eliminada)</small>
+* [Netscape Composer](https://pt.wikipedia.org/wiki/Netscape_Composer)
+* [Netscape Enterprise Server](https://pt.wikipedia.org/wiki/Netscape_Enterprise_Server)
+* [Quaker Oats Company](https://pt.wikipedia.org/w/index.php?title=Quaker_Oats_Company&redirect=no) <small>(redirecionamento)</small>
+* [Video-clipe](https://pt.wikipedia.org/w/index.php?title=Video-clipe&redirect=no) <small>(redirecionamento)</small>
+* [VilaBOL](https://pt.wikipedia.org/w/index.php?title=VilaBOL&redirect=no) <small>(redirecionamento)</small>
+* [Netscape Navigator 9](https://pt.wikipedia.org/wiki/Netscape_Navigator_9)
+* [Netscape Messenger](https://pt.wikipedia.org/w/index.php?title=Netscape_Messenger&redirect=no) <small>(redirecionamento)</small>
+* [Netscape 7](https://pt.wikipedia.org/wiki/Netscape_7)
+* [Netscape 9](https://pt.wikipedia.org/w/index.php?title=Netscape_9&redirect=no) <small>(redirecionamento)</small>
+* [Navigator 9](https://pt.wikipedia.org/w/index.php?title=Navigator_9&redirect=no) <small>(redirecionamento)</small>
+* [Netscape Communications](https://pt.wikipedia.org/w/index.php?title=Navigator_Communications&redirect=no) <small>(redirecionamento)</small>
+* [Netscape 6](https://pt.wikipedia.org/wiki/Netscape_6)
+* [Netscape Mail & Newsgroups](https://pt.wikipedia.org/wiki/Netscape_Mail_%26_Newsgroups)
+* [UOL Messenger](https://pt.wikipedia.org/wiki/UOL_Messenger)
+* [Trident (motor de layout)](https://pt.wikipedia.org/wiki/Trident_(motor_de_layout))
 
 ## 2011
-* Globo Mail <small>(redirecionamento)</small>
-* Adnet ao Vivo
-* Programas da MTV Brasil <small>(redirecionamento; página eliminada)</small>
-* Zip (website)
-* Zip.net <small>(redirecionamento)</small>
-* Mozilla Application Suite <small>(redirecionamento; página eliminada para poder mover o artigo Mozilla)</small>
-* Soap operas <small>(redirecionamento)</small>
-* Trident (motor de renderização) <small>(redirecionamento)</small>
-* Arora
-* Tasman (motor de layout)
-* Internet Explorer for Mac
-* Internet Explorer Administration Kit
-* Netscape.com <small>(redirecionamento)</small>
-* Propeller
-* Netscape 5 <small>(redirecionamento)</small>
-* Rede Jovem Pan Sat <small>(redirecionamento)</small>
-== 2012 ==
+* [Globo Mail](https://pt.wikipedia.org/wi/index.php?title=Globo_Mail&redirect=no) <small>(redirecionamento)</small>
+* [Adnet ao Vivo](https://pt.wikipedia.org/wiki/Adnet_ao_Vivo)
+* <del>Programas da MTV Brasil</del> <small>(redirecionamento; página eliminada)</small>
+* [Zip (website)](https://pt.wikipedia.org/wiki/Zip_(website))
+* [Zip.net](https://pt.wikipedia.org/wiki/Zip.net) <small>(redirecionamento)</small>
+* <del>Mozilla Application Suite</del> <small>(redirecionamento; página eliminada para poder mover o artigo [Mozilla](https://pt.wikipedia.org/w/index.php?title=Mozilla_Application_Suite&oldid=48485895))</small>
+* [Soap operas](https://pt.wikipedia.org/wi/index.php?title=Soap_operas&redirect=no) <small>(redirecionamento)</small>
+* [Trident (motor de renderização)](https://pt.wikipedia.org/wi/index.php?title=Trident_(motor_de_renderização)&redirect=no) <small>(redirecionamento)</small>
+* [Arora](https://pt.wikipedia.org/wiki/Arora)
+* [Tasman (motor de layout)](https://pt.wikipedia.org/wiki/Tasman_(motor_de_layout))
+* [Internet Explorer for Mac](https://pt.wikipedia.org/wiki/Internet_Explorer_for_Mac)
+* [Internet Explorer Administration Kit](https://pt.wikipedia.org/wiki/Internet_Explorer_Administration_Kit)
+* [Netscape.com](https://pt.wikipedia.org/wi/index.php?title=Netscape.com&redirect=no) <small>(redirecionamento)</small>
+* [Propeller](https://pt.wikipedia.org/wiki/Propeller)
+* [Netscape 5](https://pt.wikipedia.org/wi/index.php?title=Netscape_5&redirect=no) <small>(redirecionamento)</small>
+* [Rede Jovem Pan Sat](https://pt.wikipedia.org/wi/index.php?title=Rede_Jovem_Pan_Sat&redirect=no) <small>(redirecionamento)</small>
+
+## 2012
 * The Tonight Show
 * Talk Show Jay Leno <small>(redirecionamento)</small>
 * Jornal da Cultura Informa <small>(redirecionamento)</small>
-* Vivo TV <small>(redirecionamento; posteriormente iniciada por User:Alissonleonrn|Alissonleonrn)</small>
-* Troféu Internet <small>(redirecionamento; posteriormente iniciada por User:Nahschneider|Nahschneider)</small>
+* Vivo TV <small>(redirecionamento; posteriormente iniciada por [Alissonleonrn](https://pt.wikipedia.org/wiki/User:Alissonleonrn))</small>
+* Troféu Internet <small>(redirecionamento; posteriormente iniciada por [Nahschneider](https://pt.wikipedia.org/wiki/User:Nahschneider))</small>
 * Mit FM <small>(redirecionamento)</small>
 * Rede Verão FM <small>(redirecionamento)</small>
 * Tema Quente <small>(redirecionamento)</small>
@@ -53,23 +54,23 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Quem Fica em Pé? 
 * Rádio Iguatemi AM <small>(redirecionamento)</small>
 * SP Acontece <small>(redirecionamento)</small>
-* BRZ <small>(redirecionamento; posteriormente iniciada por User:Pablodiego15|Pablodiego15)</small>
+* BRZ <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
 * Vivo Speedy <small>(redirecionamento; página eliminada para poder mover o artigo Speedy)</small>
 * Revista da Cidade <small>(redirecionamento; página eliminada para poder mover o artigo Revista da Cidade (programa))</small>
-* Claquete <small>(redirecionamento; posteriormente iniciada por User:Gjpab|Gjpab)</small>
+* Claquete <small>(redirecionamento; posteriormente iniciada por [Gjpab](https://pt.wikipedia.org/wiki/User:Gjpab))</small>
 * Saturday Night Live (RedeTV!) <small>(redirecionamento)</small>
 * SUSE Studio <small>(redirecionamento)</small>
-* Conversa de Gente Grande <small>(redirecionamento; posteriormente iniciada por User:Pablodiego15|Pablodiego15)</small>
+* Conversa de Gente Grande <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
 * Ebuddy <small>(redirecionamento criado ao mover a página para EBuddy)</small>
 * Live Well HD Network <small>(redirecionamento criado ao mover a página para Live Well Network)</small>
 * Itelefonica <small>(redirecionamento criado ao mover a página para ITelefônica; página eliminada)</small>
 * Dr. Hollywood Brasil <small>(redirecionamento)</small>
 * Jornal da Record - 2ª Edição <small>(redirecionamento)</small>
 * 3DTV <small>(redirecionamento)</small>
-* Trolalá <small>(redirecionamento; posteriormente iniciada por User:Pablodiego15|Pablodiego15)</small>
+* Trolalá <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
 * NBCUniversal Cable
 * NBC Nightly News
-* Na Moral (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriada por User:Francisco Leandro|Francisco Leandro)</small>
+* Na Moral (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriada por [Francisco Leandro](https://pt.wikipedia.org/wiki/User:Francisco_Leandro))</small>
 * Android (sistema operativo) <small>(redirecionamento)</small>
 * Microsoft NBC <small>(redirecionamento)</small>
 * Rede Amazônica de Televisão <small>(redirecionamento; página eliminada)</small>
@@ -78,7 +79,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Rádio e Televisão Record S/A <small>(redirecionamento)</small>
 * Athlon MP <small>(redirecionamento)</small>
 * The Late Show with David Letterman <small>(redirecionamento criado ao mover a página para Late Show with David Letterman)</small>
-* Univesp TV <small>(redirecionamento; posteriormente iniciada por User:Peter Gomes|Peter Gomes)</small>
+* Univesp TV <small>(redirecionamento; posteriormente iniciada por [Peter Gomes](https://pt.wikipedia.org/wiki/User:Peter_Gomes))</small>
 * Se Liga Brasil
 * TV Bandeirantes Internacional <small>(redirecionamento criado ao mover a página para Band Internacional)</small>
 * Quem Quer Ser Milionário? (Brasil) <small>(redirecionamento; página eliminada)</small>
@@ -90,7 +91,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * The Late Late Show
 
 ## 2013
-* Pé na Cova <small>(redirecionamento; posteriormente iniciada por User:Britney4ever|Britney4ever)</small>
+* Pé na Cova <small>(redirecionamento; posteriormente iniciada por [Britney4ever](https://pt.wikipedia.org/wiki/User:Britney4ever))</small>
 * Amigos da Onça <small>(redirecionamento; posteriormente iniciada pelo IP Especial:Contribuições/189.24.152.84|189.24.152.84)</small>
 * Suburgatório <small>(redirecionamento)</small>
 * Univision Noticias
@@ -131,7 +132,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Late Night (programa de televisão)
 * Late Night with Seth Meyers <small>(redirecionamento)</small>
 * Lista de episódios de Luciana by Night
-* Claquete (programa de televisão) <small>(redirecionamento; posteriormente iniciada por User:Edinho1008|Edinho1008)</small>
+* Claquete (programa de televisão) <small>(redirecionamento; posteriormente iniciada por [Edinho1008](https://pt.wikipedia.org/wiki/User:Edinho1008))</small>
 * Band Clássicos <small>(redirecionamento)</small>
 * Lista de programas transmitidos pela Rede Bandeirantes
 * TV Nacional Brasil <small>(redirecionamento criado ao mover a página para TV NBR)</small>
@@ -149,7 +150,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Globo News <small>(redirecionamento criado ao mover a página para GloboNews)</small>
 * Jornal Globo News <small>(redirecionamento criado ao mover a página para Jornal GloboNews)</small>
 * Voice of America <small>(redirecionamento criado ao mover a página para Voz da América)</small>
-* A Máquina (programa de televisão) <small>(redirecionamento; posteriormente iniciada por User:Karina Masano|Karina Masano)</small>
+* A Máquina (programa de televisão) <small>(redirecionamento; posteriormente iniciada por [Karina Masano](https://pt.wikipedia.org/wiki/User:Karina_Masano))</small>
 * A Menina Sem Qualidades <small>(redirecionamento criado ao mover a página para A Menina sem Qualidades)</small>
 * NHK World Rádio Japão
 * NHK World Radio Japan <small>(redirecionamento)</small>
@@ -205,7 +206,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Late night talk show <small>(redirecionamento)</small>
 * Late-night show <small>(redirecionamento)</small>
 * Late-show <small>(redirecionamento)</small>
-* Lista de emissoras da MTV Brasil <small>(redirecionamento criado ao mover a página para Lista de emissoras da Ideal TV; posteriormente iniciada por User:Dedesp1|Dedesp1)</small>
+* Lista de emissoras da MTV Brasil <small>(redirecionamento criado ao mover a página para Lista de emissoras da Ideal TV; posteriormente iniciada por [Dedesp1](https://pt.wikipedia.org/wiki/User:Dedesp1))</small>
 * 104 FM (São Paulo) <small>(redirecionamento criado ao mover a página para Rádio Top do Brasil)</small>
 * Agora É Tarde com Rafinha Bastos <small>(redirecionamento)</small>
 * JP News <small>(redirecionamento)</small>
@@ -252,7 +253,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Submarino.com.br <small>(redirecionamento)</small>
 * Shoptime.com.br <small>(redirecionamento)</small>
 * Nova Pontocom <small>(redirecionamento)</small>
-* Cdiscount <small>(redirecionamento; posteriormente iniciada por User:Dudelles|Dudelles)</small>
+* Cdiscount <small>(redirecionamento; posteriormente iniciada por [Dudelles](https://pt.wikipedia.org/wiki/User:Dudelles))</small>
 * Cnova
 * Cnova Group <small>(redirecionamento)</small>
 * Móveis Bartira <small>(redirecionamento)</small>
@@ -306,7 +307,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Jovem Pan Brasília <small>(redirecionamento)</small>
 * Rádio Feliz FM <small>(redirecionamento criado ao mover a página para Feliz FM)</small>
 * Rádio Terra FM <small>(redirecionamento criado ao mover a página para Rádio Terra)</small>
-* Adore FM <small>(redirecionamento; página movida de Iguatemi Prime por User:Kubaski|Kubaski)</small>
+* Adore FM <small>(redirecionamento; página movida de Iguatemi Prime por [Kubaski](https://pt.wikipedia.org/wiki/User:Kubaski))</small>
 * TV Record Estados Unidos <small>(redirecionamento criado ao mover a página para TV Record Américas)</small>
 * CNT Bahia <small>(redirecionamento)</small>
 * Você na TV! (Brasil) <small>(redirecionamento criado ao mover a página para Você na TV)</small>
@@ -322,7 +323,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Jornal da Noite (Rede Bandeirantes) <small>(redirecionamento criado ao mover a página para Jornal da Noite (Brasil))</small>
 * Jornal da Noite (Rede Globo) <small>(redirecionamento criado ao mover a página para Jornal da Noite (1974))</small>
 * Zorra (programa de televisão) <small>(redirecionamento; posteriormente iniciada pelo IP Especial:Contribuições/177.106.161.88|177.106.161.88)</small>
-* Gugu (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriado por User:RoHardy|RoHardy)</small>
+* Gugu (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriado por [RoHardy](https://pt.wikipedia.org/wiki/User:RoHardy))</small>
 * Live TIM <small>(redirecionamento; página eliminada)</small>
 * NETSAT <small>(redirecionamento)</small>
 * Globo TV <small>(redirecionamento criado ao mover a página para Globo.tv)</small>
@@ -382,7 +383,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Rádio São Luís FM <small>(redirecionamento criado ao mover a página para Jovem Pan FM São Luís)</small>
 * Alphabet Inc.
 * EdgeHTML
-* Sabadão com Celso Portiolli <small>(redirecionamento; posteriormente iniciada por User:Kongs|Kongs)</small>
+* Sabadão com Celso Portiolli <small>(redirecionamento; posteriormente iniciada por [Kongs](https://pt.wikipedia.org/wiki/User:Kongs))</small>
 * Thiago Oliveira Apresentador <small>(redirecionamento criado ao mover a página para Thiago Oliveira (apresentador))</small>
 * Oeste tv <small>(redirecionamento criado ao mover a página para Oeste.tv; página eliminada)</small>
 * Bake Off Brasil <small>(redirecionamento)</small>
@@ -517,7 +518,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * O Estranho Show de Renatinho <small>(redirecionamento; página eliminada para poder mover o artigo O Estranho Show De Renatinho)</small>
 * Late Night with Jimmy Fallon <small>(redirecionamento)</small>
 * Lista de episódios de Programa do Porchat
-* Como se Tornar o Pior Aluno da Escola (filme) <small>(redirecionamento; posteriormente iniciada por User:Luandersonplayplay2|Luandersonplayplay2)</small>
+* Como se Tornar o Pior Aluno da Escola (filme) <small>(redirecionamento; posteriormente iniciada por [Luandersonplayplay2](https://pt.wikipedia.org/wiki/User:Luandersonplayplay2))</small>
 * Lista de episódios de Adnight
 * Televisão noturna
 * Mariana Godoy Entrevista
@@ -557,7 +558,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Eliana (programa da Rede Record) <small>(redirecionamento criado ao mover a página para Eliana (programa de televisão de 2004))</small>
 * Eliana (programa de televisão) <small>(redirecionamento criado ao mover a página para Eliana (programa de televisão de 2009))</small>
 * Mesquita no Controle <small>(redirecionamento criado ao mover a página para Operação Mesquita)</small>
-* El Bienamado <small>(redirecionamento; posteriormente iniciada por User:Edinho1008|Edinho1008)</small>
+* El Bienamado <small>(redirecionamento; posteriormente iniciada por [Edinho1008](https://pt.wikipedia.org/wiki/User:Edinho1008))</small>
 * CBS All Access
 * O Bem Amado (2011) <small>(redirecionamento criado ao mover a página para O Bem-Amado (minissérie))</small>
 * O Bem Amado (filme) <small>(redirecionamento criado ao mover a página para O Bem-Amado (filme))</small>
@@ -613,7 +614,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Blim
 * ESPN Internacional <small>(redirecionamento criado ao mover a página para ESPN International)</small>
 * A História Bêbada
-* Dancing Brasil <small>(redirecionamento; posteriormente iniciada por User:Kongs|Kongs)</small>
+* Dancing Brasil <small>(redirecionamento; posteriormente iniciada por [Kongs](https://pt.wikipedia.org/wiki/User:Kongs))</small>
 * SBT Notícias (2000)
 * Jornal do SBT: Edição Manhã <small>(redirecionamento)</small>
 * Simba Content
