@@ -1,6 +1,6 @@
 # Páginas criadas
 
-Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criação da minha conta, em 2010. As páginas criadas não necessariamente indicam que todo o conteúdo que atualmente estão nelas foram criadas por mim. Até o final de 2014, as páginas com o prefixo "''Lista de...''" faziam parte do [extinto domínio Anexo:](https://pt.wikipedia.org/wiki/Wikipédia:Esplanada/propostas/Eliminação_do_domínio_Anexo_(26abr2014)).
+Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criação da minha conta, em 2010. As páginas criadas não necessariamente indicam que todo o conteúdo que atualmente estão nelas foram criadas por mim. Até o final de 2014, as páginas com o prefixo "_Lista de..._" faziam parte do [extinto domínio Anexo:](https://pt.wikipedia.org/wiki/Wikipédia:Esplanada/propostas/Eliminação_do_domínio_Anexo_(26abr2014)).
 
 ## 2010
 * Microsoft Internet Mail and News
