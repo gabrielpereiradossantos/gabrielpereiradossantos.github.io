@@ -16,7 +16,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * [Netscape 7](https://pt.wikipedia.org/wiki/Netscape_7)
 * [Netscape 9](https://pt.wikipedia.org/w/index.php?title=Netscape_9&redirect=no) <small>(redirecionamento)</small>
 * [Navigator 9](https://pt.wikipedia.org/w/index.php?title=Navigator_9&redirect=no) <small>(redirecionamento)</small>
-* [Netscape Communications](https://pt.wikipedia.org/w/index.php?title=Navigator_Communications&redirect=no) <small>(redirecionamento)</small>
+* [Netscape Communications](https://pt.wikipedia.org/w/index.php?title=Netscape_Communications&redirect=no) <small>(redirecionamento)</small>
 * [Netscape 6](https://pt.wikipedia.org/wiki/Netscape_6)
 * [Netscape Mail & Newsgroups](https://pt.wikipedia.org/wiki/Netscape_Mail_%26_Newsgroups)
 * [UOL Messenger](https://pt.wikipedia.org/wiki/UOL_Messenger)
@@ -674,3 +674,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Lista de programas transmitidos pela Jovem Pan
 * Loira do Banheiro (filme) <small>(redirecionamento)</small>
 * Júnior Bake Off <small>(redirecionamento)</small>
+
+----
+
+___Dados atualizados em:__ 12 de julho de 2017_
