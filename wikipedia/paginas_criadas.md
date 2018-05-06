@@ -23,22 +23,22 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * [Trident (motor de layout)](https://pt.wikipedia.org/wiki/Trident_(motor_de_layout))
 
 ## 2011
-* [Globo Mail](https://pt.wikipedia.org/wi/index.php?title=Globo_Mail&redirect=no) <small>(redirecionamento)</small>
+* [Globo Mail](https://pt.wikipedia.org/w/index.php?title=Globo_Mail&redirect=no) <small>(redirecionamento)</small>
 * [Adnet ao Vivo](https://pt.wikipedia.org/wiki/Adnet_ao_Vivo)
 * <del>Programas da MTV Brasil</del> <small>(redirecionamento; página eliminada)</small>
 * [Zip (website)](https://pt.wikipedia.org/wiki/Zip_(website))
 * [Zip.net](https://pt.wikipedia.org/wiki/Zip.net) <small>(redirecionamento)</small>
 * <del>Mozilla Application Suite</del> <small>(redirecionamento; página eliminada para poder mover o artigo [Mozilla](https://pt.wikipedia.org/w/index.php?title=Mozilla_Application_Suite&oldid=48485895))</small>
-* [Soap operas](https://pt.wikipedia.org/wi/index.php?title=Soap_operas&redirect=no) <small>(redirecionamento)</small>
-* [Trident (motor de renderização)](https://pt.wikipedia.org/wi/index.php?title=Trident_(motor_de_renderização)&redirect=no) <small>(redirecionamento)</small>
+* [Soap operas](https://pt.wikipedia.org/w/index.php?title=Soap_operas&redirect=no) <small>(redirecionamento)</small>
+* [Trident (motor de renderização)](https://pt.wikipedia.org/w/index.php?title=Trident_(motor_de_renderização)&redirect=no) <small>(redirecionamento)</small>
 * [Arora](https://pt.wikipedia.org/wiki/Arora)
 * [Tasman (motor de layout)](https://pt.wikipedia.org/wiki/Tasman_(motor_de_layout))
 * [Internet Explorer for Mac](https://pt.wikipedia.org/wiki/Internet_Explorer_for_Mac)
 * [Internet Explorer Administration Kit](https://pt.wikipedia.org/wiki/Internet_Explorer_Administration_Kit)
-* [Netscape.com](https://pt.wikipedia.org/wi/index.php?title=Netscape.com&redirect=no) <small>(redirecionamento)</small>
+* [Netscape.com](https://pt.wikipedia.org/w/index.php?title=Netscape.com&redirect=no) <small>(redirecionamento)</small>
 * [Propeller](https://pt.wikipedia.org/wiki/Propeller)
-* [Netscape 5](https://pt.wikipedia.org/wi/index.php?title=Netscape_5&redirect=no) <small>(redirecionamento)</small>
-* [Rede Jovem Pan Sat](https://pt.wikipedia.org/wi/index.php?title=Rede_Jovem_Pan_Sat&redirect=no) <small>(redirecionamento)</small>
+* [Netscape 5](https://pt.wikipedia.org/w/index.php?title=Netscape_5&redirect=no) <small>(redirecionamento)</small>
+* [Rede Jovem Pan Sat](https://pt.wikipedia.org/w/index.php?title=Rede_Jovem_Pan_Sat&redirect=no) <small>(redirecionamento)</small>
 
 ## 2012
 * The Tonight Show
@@ -92,7 +92,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 
 ## 2013
 * Pé na Cova <small>(redirecionamento; posteriormente iniciada por [Britney4ever](https://pt.wikipedia.org/wiki/User:Britney4ever))</small>
-* Amigos da Onça <small>(redirecionamento; posteriormente iniciada pelo IP Especial:Contribuições/189.24.152.84|189.24.152.84)</small>
+* Amigos da Onça <small>(redirecionamento; posteriormente iniciada pelo IP [189.24.152.84](https://pt.wikipedia.org/wiki/Especial:Contribuições/189.24.152.84))</small>
 * Suburgatório <small>(redirecionamento)</small>
 * Univision Noticias
 * Ultra HD <small>(redirecionamento)</small>
@@ -107,7 +107,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Sob Medida (Brasil) <small>(redirecionamento)</small>
 * ¡Ahora caigo!
 * Estadão ESPN <small>(redirecionamento criado ao mover a página para Rádio Estadão; página eliminada)</small>
-* O Dentista Mascarado <small>(redirecionamento; posteriormente iniciada pelo IP Especial:Contribuições/186.199.84.221|186.199.84.221)</small>
+* O Dentista Mascarado <small>(redirecionamento; posteriormente iniciada pelo IP [186.199.84.221](https://pt.wikipedia.org/wiki/Especial:Contribuições/186.199.84.221))</small>
 * Você na TV <small>(redirecionamento; página eliminada; posteriormente recriada e eliminada duas vezes; página movida de Você na TV! (Brasil))</small>
 * TeleFutura <small>(redirecionamento criado ao mover a página para UniMás)</small>
 * Univisión <small>(redirecionamento criado ao mover a página para Univision)</small>
@@ -322,7 +322,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * Jornal da Noite (SIC) <small>(redirecionamento criado ao mover a página para Jornal da Noite (Portugal))</small>
 * Jornal da Noite (Rede Bandeirantes) <small>(redirecionamento criado ao mover a página para Jornal da Noite (Brasil))</small>
 * Jornal da Noite (Rede Globo) <small>(redirecionamento criado ao mover a página para Jornal da Noite (1974))</small>
-* Zorra (programa de televisão) <small>(redirecionamento; posteriormente iniciada pelo IP Especial:Contribuições/177.106.161.88|177.106.161.88)</small>
+* Zorra (programa de televisão) <small>(redirecionamento; posteriormente iniciada pelo IP [177.106.161.88](https://pt.wikipedia.org/wiki/Especial:Contribuições/177.106.161.88))</small>
 * Gugu (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriado por [RoHardy](https://pt.wikipedia.org/wiki/User:RoHardy))</small>
 * Live TIM <small>(redirecionamento; página eliminada)</small>
 * NETSAT <small>(redirecionamento)</small>
