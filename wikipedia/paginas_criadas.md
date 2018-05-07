@@ -5,7 +5,7 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 ## 2010
 * [Microsoft Internet Mail and News](https://pt.wikipedia.org/wiki/Microsoft_Internet_Mail_and_News)
 * [Netscape Messenger 9](https://pt.wikipedia.org/wiki/Netscape_Messenger_9)
-* <del>Televisão Cultura</del> <small>(redirecionamento; página eliminada)</small>
+* ~~Televisão Cultura~~ <small>(redirecionamento; página eliminada)</small>
 * [Netscape Composer](https://pt.wikipedia.org/wiki/Netscape_Composer)
 * [Netscape Enterprise Server](https://pt.wikipedia.org/wiki/Netscape_Enterprise_Server)
 * [Quaker Oats Company](https://pt.wikipedia.org/w/index.php?title=Quaker_Oats_Company&redirect=no) <small>(redirecionamento)</small>
@@ -25,10 +25,10 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 ## 2011
 * [Globo Mail](https://pt.wikipedia.org/w/index.php?title=Globo_Mail&redirect=no) <small>(redirecionamento)</small>
 * [Adnet ao Vivo](https://pt.wikipedia.org/wiki/Adnet_ao_Vivo)
-* <del>Programas da MTV Brasil</del> <small>(redirecionamento; página eliminada)</small>
+* ~~Programas da MTV Brasil~~ <small>(redirecionamento; página eliminada)</small>
 * [Zip (website)](https://pt.wikipedia.org/wiki/Zip_(website))
 * [Zip.net](https://pt.wikipedia.org/wiki/Zip.net) <small>(redirecionamento)</small>
-* <del>Mozilla Application Suite</del> <small>(redirecionamento; página eliminada para poder mover o artigo [Mozilla](https://pt.wikipedia.org/w/index.php?title=Mozilla_Application_Suite&oldid=48485895))</small>
+* ~~Mozilla Application Suite~~ <small>(redirecionamento; página eliminada para poder mover o artigo [Mozilla](https://pt.wikipedia.org/w/index.php?title=Mozilla_Application_Suite&diff=prev&oldid=48485895))</small>
 * [Soap operas](https://pt.wikipedia.org/w/index.php?title=Soap_operas&redirect=no) <small>(redirecionamento)</small>
 * [Trident (motor de renderização)](https://pt.wikipedia.org/w/index.php?title=Trident_(motor_de_renderização)&redirect=no) <small>(redirecionamento)</small>
 * [Arora](https://pt.wikipedia.org/wiki/Arora)
@@ -41,54 +41,54 @@ Aqui estão as páginas que foram criadas por mim na Wikipédia desde a criaçã
 * [Rede Jovem Pan Sat](https://pt.wikipedia.org/w/index.php?title=Rede_Jovem_Pan_Sat&redirect=no) <small>(redirecionamento)</small>
 
 ## 2012
-* The Tonight Show
-* Talk Show Jay Leno <small>(redirecionamento)</small>
-* Jornal da Cultura Informa <small>(redirecionamento)</small>
-* Vivo TV <small>(redirecionamento; posteriormente iniciada por [Alissonleonrn](https://pt.wikipedia.org/wiki/User:Alissonleonrn))</small>
-* Troféu Internet <small>(redirecionamento; posteriormente iniciada por [Nahschneider](https://pt.wikipedia.org/wiki/User:Nahschneider))</small>
-* Mit FM <small>(redirecionamento)</small>
-* Rede Verão FM <small>(redirecionamento)</small>
-* Tema Quente <small>(redirecionamento)</small>
-* MTV1 <small>(redirecionamento)</small>
-* Antena Paulista <small>(redirecionamento)</small>
-* Quem Fica em Pé? 
-* Rádio Iguatemi AM <small>(redirecionamento)</small>
-* SP Acontece <small>(redirecionamento)</small>
-* BRZ <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
-* Vivo Speedy <small>(redirecionamento; página eliminada para poder mover o artigo Speedy)</small>
-* Revista da Cidade <small>(redirecionamento; página eliminada para poder mover o artigo Revista da Cidade (programa))</small>
-* Claquete <small>(redirecionamento; posteriormente iniciada por [Gjpab](https://pt.wikipedia.org/wiki/User:Gjpab))</small>
-* Saturday Night Live (RedeTV!) <small>(redirecionamento)</small>
-* SUSE Studio <small>(redirecionamento)</small>
-* Conversa de Gente Grande <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
-* Ebuddy <small>(redirecionamento criado ao mover a página para EBuddy)</small>
-* Live Well HD Network <small>(redirecionamento criado ao mover a página para Live Well Network)</small>
-* Itelefonica <small>(redirecionamento criado ao mover a página para ITelefônica; página eliminada)</small>
-* Dr. Hollywood Brasil <small>(redirecionamento)</small>
-* Jornal da Record - 2ª Edição <small>(redirecionamento)</small>
-* 3DTV <small>(redirecionamento)</small>
-* Trolalá <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
-* NBCUniversal Cable
-* NBC Nightly News
-* Na Moral (programa de televisão) <small>(redirecionamento; página eliminada; posteriormente recriada por [Francisco Leandro](https://pt.wikipedia.org/wiki/User:Francisco_Leandro))</small>
-* Android (sistema operativo) <small>(redirecionamento)</small>
-* Microsoft NBC <small>(redirecionamento)</small>
-* Rede Amazônica de Televisão <small>(redirecionamento; página eliminada)</small>
-* Mozilla Organization <small>(redirecionamento)</small>
-* Safari Mobile <small>(redirecionamento)</small>
-* Rádio e Televisão Record S/A <small>(redirecionamento)</small>
-* Athlon MP <small>(redirecionamento)</small>
-* The Late Show with David Letterman <small>(redirecionamento criado ao mover a página para Late Show with David Letterman)</small>
-* Univesp TV <small>(redirecionamento; posteriormente iniciada por [Peter Gomes](https://pt.wikipedia.org/wiki/User:Peter_Gomes))</small>
-* Se Liga Brasil
-* TV Bandeirantes Internacional <small>(redirecionamento criado ao mover a página para Band Internacional)</small>
-* Quem Quer Ser Milionário? (Brasil) <small>(redirecionamento; página eliminada)</small>
-* Got Talent Brasil <small>(redirecionamento; página eliminada)</small>
-* Então é Natal (canção) <small>(redirecionamento criado ao mover a página para Então É Natal)</small>
-* Happy Xmas (War is Over) <small>(redirecionamento criado ao mover a página para Happy Xmas (War Is Over))</small>
-* UOL 89 A Rádio Rock <small>(redirecionamento criado ao mover a página para UOL 89 FM a Rádio Rock)</small>
-* Late Show (desambiguação) <small>(redirecionamento criado ao mover a página para The Late Show)</small>
-* The Late Late Show
+* [The Tonight Show](https://pt.wikipedia.org/wiki/The_Tonight_Show)
+* [Talk Show Jay Leno](https://pt.wikipedia.org/w/index.php?title=Talk_Show_Jay_Leno&redirect=no) <small>(redirecionamento)</small>
+* [Jornal da Cultura Informa](https://pt.wikipedia.org/w/index.php?title=Jornal_da_Cultura_Informa&redirect=no) <small>(redirecionamento)</small>
+* [Vivo TV](https://pt.wikipedia.org/wiki/Vivo_TV) <small>(redirecionamento; posteriormente iniciada por [Alissonleonrn](https://pt.wikipedia.org/wiki/User:Alissonleonrn))</small>
+* [Troféu Internet](https://pt.wikipedia.org/wiki/Troféu_Internet) <small>(redirecionamento; posteriormente iniciada por [Nahschneider](https://pt.wikipedia.org/wiki/User:Nahschneider))</small>
+* [Mit FM](https://pt.wikipedia.org/w/index.php?title=Mit_FM&redirect=no) <small>(redirecionamento)</small>
+* [Rede Verão FM](https://pt.wikipedia.org/w/index.php?title=Rede_Verão_FM&redirect=no) <small>(redirecionamento)</small>
+* [Tema Quente](https://pt.wikipedia.org/w/index.php?title=Tema_Quente&redirect=no) <small>(redirecionamento)</small>
+* [MTV1](https://pt.wikipedia.org/w/index.php?title=MTV1&redirect=no) <small>(redirecionamento)</small>
+* [Antena Paulista](https://pt.wikipedia.org/w/index.php?title=Antena_Paulista&redirect=no) <small>(redirecionamento)</small>
+* [Quem Fica em Pé?](https://pt.wikipedia.org/wiki/Quem_Fica_em_P%C3%A9%3F)
+* [Rádio Iguatemi AM](https://pt.wikipedia.org/w/index.php?title=R%C3%A1dio_Iguatemi_AM&redirect=no) <small>(redirecionamento)</small>
+* [SP Acontece](https://pt.wikipedia.org/w/index.php?title=SP_Acontece&redirect=no) <small>(redirecionamento)</small>
+* [BRZ](https://pt.wikipedia.org/wiki/BRZ) <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
+* ~~Vivo Speedy~~ <small>(redirecionamento; página eliminada para poder mover o artigo [Speedy](https://pt.wikipedia.org/w/index.php?title=Vivo_Speedy&type=revision&diff=30476385&oldid=30471463))</small>
+* ~~Revista da Cidade~~ <small>(redirecionamento; página eliminada para poder mover o artigo [Revista da Cidade (programa)](https://pt.wikipedia.org/w/index.php?title=Revista_da_Cidade&diff=prev&oldid=35193439))</small>
+* [Claquete](https://pt.wikipedia.org/wiki/Claquete) <small>(redirecionamento; posteriormente iniciada por [Gjpab](https://pt.wikipedia.org/wiki/User:Gjpab))</small>
+* [Saturday Night Live (RedeTV!)](https://pt.wikipedia.org/w/index.php?title=Saturday_Night_Live_(RedeTV!)&redirect=no) <small>(redirecionamento)</small>
+* [SUSE Studio](https://pt.wikipedia.org/w/index.php?title=SUSE_Studio&redirect=no) <small>(redirecionamento)</small>
+* [Conversa de Gente Grande](https://pt.wikipedia.org/wiki/Conversa_de_Gente_Grande) <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
+* [Ebuddy](https://pt.wikipedia.org/w/index.php?title=Ebuddy&redirect=no) <small>(redirecionamento criado ao mover a página para [EBuddy](https://pt.wikipedia.org/w/index.php?title=EBuddy&diff=prev&oldid=29790256))</small>
+* [Live Well HD Network](https://pt.wikipedia.org/w/index.php?title=Live_Well_HD_Network&redirect=no) <small>(redirecionamento criado ao mover a página para [Live Well Network](https://pt.wikipedia.org/w/index.php?title=Live_Well_Network&diff=prev&oldid=29975639))</small>
+* ~~Itelefonica~~ <small>(redirecionamento criado ao mover a página para ~~ITelefônica~~; página eliminada)</small>
+* [Dr. Hollywood Brasil](https://pt.wikipedia.org/w/index.php?title=Dr._Hollywood_Brasil&redirect=no) <small>(redirecionamento)</small>
+* [Jornal da Record - 2ª Edição](https://pt.wikipedia.org/w/index.php?title=Jornal_da_Record_-_2%C2%AA_Edi%C3%A7%C3%A3o&redirect=no) <small>(redirecionamento)</small>
+* [3DTV](https://pt.wikipedia.org/w/index.php?title=3DTV&redirect=no) <small>(redirecionamento)</small>
+* [Trolalá](https://pt.wikipedia.org/wiki/Trolal%C3%A1) <small>(redirecionamento; posteriormente iniciada por [Pablodiego15](https://pt.wikipedia.org/wiki/User:Pablodiego15))</small>
+* [NBCUniversal Cable](https://pt.wikipedia.org/wiki/NBCUniversal_Cable)
+* [NBC Nightly News](https://pt.wikipedia.org/wiki/NBC_Nightly_News)
+* ~~Na Moral (programa de televisão)~~ <small>(redirecionamento; página eliminada; posteriormente recriada por [Francisco Leandro](https://pt.wikipedia.org/wiki/User:Francisco_Leandro))</small>
+* [Android (sistema operativo)](https://pt.wikipedia.org/w/index.php?title=Android_(sistema_operativo)&redirect=no) <small>(redirecionamento)</small>
+* [Microsoft NBC](https://pt.wikipedia.org/w/index.php?title=Microsoft_NBC&redirect=no) <small>(redirecionamento)</small>
+* ~~Rede Amazônica de Televisão~~ <small>(redirecionamento; página eliminada)</small>
+* [Mozilla Organization](https://pt.wikipedia.org/w/index.php?title=Mozilla_Organization&redirect=no) <small>(redirecionamento)</small>
+* [Safari Mobile](https://pt.wikipedia.org/w/index.php?title=Safari_Mobile&redirect=no) <small>(redirecionamento)</small>
+* [Rádio e Televisão Record S/A](https://pt.wikipedia.org/w/index.php?title=R%C3%A1dio_e_Televis%C3%A3o_Record_S/A&redirect=no) <small>(redirecionamento)</small>
+* [Athlon MP](https://pt.wikipedia.org/w/index.php?title=Athlon_MP&redirect=no) <small>(redirecionamento)</small>
+* [The Late Show with David Letterman](https://pt.wikipedia.org/w/index.php?title=The_Late_Show_with_David_Letterman&redirect=no) <small>(redirecionamento criado ao mover a página para [Late Show with David Letterman](https://pt.wikipedia.org/w/index.php?title=Late_Show_with_David_Letterman&diff=prev&oldid=32213774))</small>
+* [Univesp TV](https://pt.wikipedia.org/wiki/Univesp_TV) <small>(redirecionamento; posteriormente iniciada por [Peter Gomes](https://pt.wikipedia.org/wiki/User:Peter_Gomes))</small>
+* [Se Liga Brasil](ttps://pt.wikipedia.org/wiki/Se_Liga_Brasil)
+* [TV Bandeirantes Internacional](https://pt.wikipedia.org/w/index.php?title=TV_Bandeirantes_Internacional&redirect=no) <small>(redirecionamento criado ao mover a página para [Band Internacional](https://pt.wikipedia.org/w/index.php?title=Band_Internacional&diff=prev&oldid=32972586))</small>
+* ~~Quem Quer Ser Milionário? (Brasil)~~~ <small>(redirecionamento; página eliminada)</small>
+* ~~Got Talent Brasil~~ <small>(redirecionamento; página eliminada)</small>
+* [Então é Natal (canção)](https://pt.wikipedia.org/w/index.php?title=Ent%C3%A3o_%C3%A9_Natal_(can%C3%A7%C3%A3o)&redirect=no) <small>(redirecionamento criado ao mover a página para [Então É Natal](https://pt.wikipedia.org/w/index.php?title=Ent%C3%A3o_%C3%89_Natal&diff=prev&oldid=33280595))</small>
+* [Happy Xmas (War is Over)](https://pt.wikipedia.org/w/index.php?title=Happy_Xmas_(War_is_Over)&redirect=no) <small>(redirecionamento criado ao mover a página para [Happy Xmas (War Is Over)](https://pt.wikipedia.org/w/index.php?title=Happy_Xmas_(War_Is_Over)&diff=prev&oldid=33280648))</small>
+* [UOL 89 A Rádio Rock](https://pt.wikipedia.org/w/index.php?title=UOL_89_A_R%C3%A1dio_Rock&redirect=no) <small>(redirecionamento criado ao mover a página para [UOL 89 FM a Rádio Rock](https://pt.wikipedia.org/w/index.php?title=89_FM_a_R%C3%A1dio_Rock&diff=prev&oldid=33410511))</small>
+* [Late Show (desambiguação)](https://pt.wikipedia.org/w/index.php?title=Late_Show_(desambigua%C3%A7%C3%A3o)&redirect=no) <small>(redirecionamento criado ao mover a página para [The Late Show](https://pt.wikipedia.org/w/index.php?title=The_Late_Show&diff=prev&oldid=33487547))</small>
+* [The Late Late Show](https://pt.wikipedia.org/wiki/The_Late_Late_Show)
 
 ## 2013
 * Pé na Cova <small>(redirecionamento; posteriormente iniciada por [Britney4ever](https://pt.wikipedia.org/wiki/User:Britney4ever))</small>
