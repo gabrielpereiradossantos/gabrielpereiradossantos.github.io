@@ -229,4 +229,4 @@ Aqui constam as [páginas criadas](https://pt.wikipedia.org/wiki/Special:Contrib
 
 ----
 
-___Dados atualizados em:__ 30 dejunho de 2020_
+___Dados atualizados em:__ 30 de junho de 2020_
